@@ -1,6 +1,9 @@
-private class WhileLoop{
+public class WhileLoop{
     public static void main(String[] args) {
-        System.out.println("This program is about while loop");
-        
+        int x = 0;
+        while(x <= 3){
+            System.out.println("Hello" + x);
+            x++;
+        }
     }
 }
