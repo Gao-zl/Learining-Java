@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c4976dc-3044-45fb-9517-c7112d5652b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch02/BallGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/BallGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/images/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/images/desk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-com.163/ch02/src/BallGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-com.163/ch02/src/BallGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-com.163/ch02/src/images/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-com.163/ch02/src/images/desk.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch01/This_file_is_empty.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch02/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch02/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch03/constant/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch03/constant/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch03/variable/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch03/variable/Variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch04/Arithmetic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch04/Arithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch05/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/01_mathematical_operation/ch05/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/02_health_management/ch01/Thi_file_is_empty.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/02_health_management/ch02/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/02_health_management/ch02/DataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/02_health_management/ch03/Compare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/02_health_management/ch04/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/02_health_management/ch05/Choose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/02_health_management/ch06/BMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/03_guess_number/ch01/This_file_is_empty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/03_guess_number/ch02/ArithmeticProblems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/03_guess_number/ch03/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/03_guess_number/ch03/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/03_guess_number/ch04/Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-beginner/03_guess_number/ch05/GuessNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reference/v2.0-JavaGuide面试突击版.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bB1YM549p1XGoB3R05z8BEpMZa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager" selected="Application.BallGame2">
+    <configuration name="BallGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BallGame" />
+      <module name="2-163网易" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BallGame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BallGame2" />
+      <module name="2-163网易" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BallGame2" />
+        <item itemvalue="Application.BallGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c4976dc-3044-45fb-9517-c7112d5652b9" name="Default Changelist" comment="" />
+      <created>1588090718137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588090718137</updated>
+      <workItem from="1588090729241" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1588090889412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588090889412" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1588090889412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588090889412" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1588090889411">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588090889411" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1588090889412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588090889412" />
+  </component>
+</project>
