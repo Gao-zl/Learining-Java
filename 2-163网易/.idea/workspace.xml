@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c4976dc-3044-45fb-9517-c7112d5652b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch02/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/KeyboardInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/TypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/LoopStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/RecursionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/SelectStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/TestConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/内存分析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/内存分析2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch04/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch04/Note.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +28,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ch04/TestConstructor.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/ch02/Operator.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1bB1YM549p1XGoB3R05z8BEpMZa" />
@@ -53,7 +47,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.HomeWork">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\Learining-Java\2-163网易\src\ch04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestConstructor">
     <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch03.HomeWork" />
       <module name="2-163网易" />
@@ -67,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.MethodTest" />
+    <configuration name="Note" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.Note" />
       <module name="2-163网易" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch03.*" />
+          <option name="PATTERN" value="ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.RecursionTest" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.Student" />
       <module name="2-163网易" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch03.*" />
+          <option name="PATTERN" value="ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.Test06" />
+    <configuration name="TestConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.TestConstructor" />
       <module name="2-163网易" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch03.*" />
+          <option name="PATTERN" value="ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestConstructor" />
+        <item itemvalue="Application.Note" />
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.HomeWork" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Test06" />
-        <item itemvalue="Application.RecursionTest" />
-        <item itemvalue="Application.MethodTest" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,9 @@
       <workItem from="1588302751607" duration="9219000" />
       <workItem from="1588336365425" duration="6194000" />
       <workItem from="1588399480186" duration="11176000" />
-      <workItem from="1588469955984" duration="479000" />
+      <workItem from="1588469955984" duration="4768000" />
+      <workItem from="1589094020551" duration="885000" />
+      <workItem from="1589112034604" duration="1849000" />
     </task>
     <servers />
   </component>
@@ -156,22 +157,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="84" key="GridCell.Tab.0.bottom" timestamp="1588414809393">
+    <state x="1146" y="291" width="374" height="276" key="#Notifications" timestamp="1589094091984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1146" y="291" width="374" height="276" key="#Notifications/0.0.1920.1040/-1600.97.1280.680@0.0.1920.1040" timestamp="1589094091984" />
+    <state x="478" y="0" key="CommitChangelistDialog2" timestamp="1588473507448">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="84" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588414809393" />
-    <state width="1237" height="84" key="GridCell.Tab.0.center" timestamp="1588414809392">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="478" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588473507448" />
+    <state width="918" height="152" key="GridCell.Tab.0.bottom" timestamp="1589115336527">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1237" height="84" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588414809392" />
-    <state width="1237" height="84" key="GridCell.Tab.0.left" timestamp="1588414809392">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="492" height="83" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588495963976" />
+    <state width="918" height="152" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.97.1280.680@0.0.1920.1040" timestamp="1589115336527" />
+    <state width="918" height="152" key="GridCell.Tab.0.center" timestamp="1589115336527">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1237" height="84" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588414809392" />
-    <state width="1237" height="84" key="GridCell.Tab.0.right" timestamp="1588414809393">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="492" height="83" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588495963975" />
+    <state width="918" height="152" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.97.1280.680@0.0.1920.1040" timestamp="1589115336527" />
+    <state width="918" height="152" key="GridCell.Tab.0.left" timestamp="1589115336526">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1237" height="84" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588414809393" />
+    <state width="492" height="83" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588495963975" />
+    <state width="918" height="152" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.97.1280.680@0.0.1920.1040" timestamp="1589115336526" />
+    <state width="918" height="152" key="GridCell.Tab.0.right" timestamp="1589115336527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="492" height="83" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588495963975" />
+    <state width="918" height="152" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.97.1280.680@0.0.1920.1040" timestamp="1589115336527" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1588343890270">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -192,10 +205,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="161" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588409698626" />
-    <state x="660" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1588470349297">
+    <state x="806" y="256" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588473471032">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="660" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1588470349297" />
+    <state x="806" y="256" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1588473471032" />
+    <state x="660" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1588470867786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="660" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1588470867786" />
     <state x="715" y="255" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1588411345457">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
